@@ -1,51 +1,52 @@
-const obj = {
-    gyms: {
-      "8423a915f20a4ad08ea411908f68f2e9.16": {
-        guid: "8423a915f20a4ad08ea411908f68f2e9.16",
-        lat: 51.736352,
-        lng: -0.449545,
-        name: "Barnacres Play Area",
-      },
-    },
-    pokestops: {
-      "1262fb688aed45828b97763f6fc745c8.16": {
-        guid: "1262fb688aed45828b97763f6fc745c8.16",
-        lat: 51.741264,
-        lng: -0.434381,
-        name: "Acorn carving bench",
-      },
-    },
-    notpogo: {
-      "f66681a95a5e45fc85a65bda6ef4eaea.16": {
-        guid: "f66681a95a5e45fc85a65bda6ef4eaea.16",
-        lat: 51.733297,
-        lng: -0.458766,
-        name: "Apsley Basin Gate",
-      },
-    },
-    ignoredCellsExtraGyms: {},
-    ignoredCellsMissingGyms: {},
-  },
-  used = [],
-  cats = Object.keys(obj),
-  newObj = {
-    gyms: {},
-    pokestops: {},
-    notpogo: {},
-    ignoredCellsExtraGyms: {},
-    ignoredCellsMissingGyms: {},
-  };
+(() => {
+	const fetchExternalData = () => {
+		// prettier-ignore
+		return Promise.all([
+      fetch("./IITC-pogo_new.json"),
+      fetch("./IITC-pogo_tablet.json"),
+      fetch("./IITC-pogo_laptop.json"),
+      fetch("./IITC-pogo_desktop.json"),
+      fetch("./IITC-pogo_old.json")
+    ])
+    .then(results => {
+      return Promise.all(results.map(result => result.json()));
+    });
+	};
 
-cats.forEach((key) => {
-  const itemIds = Object.keys(obj[key]);
+	fetchExternalData()
+		.then((arrJsonObjs) => {
+			const used = [];
 
-  itemIds.forEach((itemId) => {
-    const isDone = used.includes(itemId);
+			const newObj = {
+				gyms: {},
+				pokestops: {},
+				notpogo: {},
+				ignoredCellsExtraGyms: {},
+				ignoredCellsMissingGyms: {},
+			};
 
-    if (!!isDone) return;
+			arrJsonObjs.forEach((jsonObj) => {
+				const cats = Object.keys(jsonObj);
 
-    used.push(itemId);
+				cats.forEach((key) => {
+					const itemIds = Object.keys(jsonObj[key]);
 
-    newObj[key][itemId] = obj[key][itemId];
-  });
-});
+					itemIds.forEach((itemId) => {
+						const isDone = used.includes(itemId);
+
+						if (!!isDone) return;
+
+						used.push(itemId);
+
+						newObj[key][itemId] = jsonObj[key][itemId];
+					});
+				});
+			});
+
+			const elLink = document.createElement("a");
+			elLink.href = window.URL.createObjectURL(new Blob([JSON.stringify(newObj)], { type: "text/plain" }));
+			elLink.download = "IITC-pogo__output.json";
+			elLink.click();
+		})
+		.catch(console.error);
+})();

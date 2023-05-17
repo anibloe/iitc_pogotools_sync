@@ -1,1 +1,418 @@
-{"gyms":{"3b752159d82549b7b7f1a7dd5308aaf9.16":{"guid":"3b752159d82549b7b7f1a7dd5308aaf9.16","lat":52.180017,"lng":1.005207,"name":"Charcoal & Churches Trail Marker 1"},"45c61dab5a744653bccb3dc2b36ff786.16":{"guid":"45c61dab5a744653bccb3dc2b36ff786.16","lat":51.732723,"lng":-0.463169,"name":"Apsley Rail Station"},"7d5be71af2b34e419b57786cc9016927.11":{"guid":"7d5be71af2b34e419b57786cc9016927.11","lat":51.733722,"lng":-0.458795,"name":"Entrance to Apsley Lock Marina"},"e7cef98f976c4bdb9a9c6db8ca1fca32.16":{"guid":"e7cef98f976c4bdb9a9c6db8ca1fca32.16","lat":51.733184,"lng":-0.45405,"name":"The Denes Shopping Centre"},"87df1d7e397a47609ad23b9b41dc776f.16":{"guid":"87df1d7e397a47609ad23b9b41dc776f.16","lat":51.671731,"lng":-0.426927,"name":"Braunston 71 Miles"},"f5ce6226299c48e58476ad4badace37a.16":{"guid":"f5ce6226299c48e58476ad4badace37a.16","lat":51.732522,"lng":-0.455812,"name":"King George V Pillar Box"},"4c7a9f17c528402b8d3bc1c2f76a13d4.16":{"guid":"4c7a9f17c528402b8d3bc1c2f76a13d4.16","lat":51.729862,"lng":-0.453858,"name":"Nash Mills lock 68 - Top lock (c.1797)"},"76f196971db34c36aeb5264ef0dfae05.11":{"guid":"76f196971db34c36aeb5264ef0dfae05.11","lat":51.734599,"lng":-0.466057,"name":"St. Mary's Apsley End"},"289f951f9181444d8ce9f44b99538add.16":{"guid":"289f951f9181444d8ce9f44b99538add.16","lat":51.663762,"lng":-0.426172,"name":"Cassiobury Park Local Nature Reserve"},"8c0706b3fe014b4196b348707e21d41f.16":{"guid":"8c0706b3fe014b4196b348707e21d41f.16","lat":51.68864,"lng":-0.433745,"name":"Grand Union Canal Lock 73 (lower lock)"},"df041562665945a6955614be576e50bf.16":{"guid":"df041562665945a6955614be576e50bf.16","lat":51.727724,"lng":-0.452563,"name":"Nash Mills Lock 69 - bottom lock"},"c125b5c015694c5b845012fcd9e47448.16":{"guid":"c125b5c015694c5b845012fcd9e47448.16","lat":51.731584,"lng":-0.447677,"name":"Welcome to Langley Tennis Club"},"8423a915f20a4ad08ea411908f68f2e9.16":{"guid":"8423a915f20a4ad08ea411908f68f2e9.16","lat":51.736352,"lng":-0.449545,"name":"Barnacres Play Area"},"309f879cd1594293b4cd68e03f9654f9.16":{"guid":"309f879cd1594293b4cd68e03f9654f9.16","lat":51.736279,"lng":-0.461063,"name":"Dell Meadow King George V Pillar Box"},"b4ce373f062f477f8f8020cec8d25952.16":{"guid":"b4ce373f062f477f8f8020cec8d25952.16","lat":51.736905,"lng":-0.46748,"name":"Kent Brushes"},"358f6c597b97452fae6b212adb961c15.11":{"guid":"358f6c597b97452fae6b212adb961c15.11","lat":51.740349,"lng":-0.466484,"name":"New Life Pentecostal Church"}},"pokestops":{"040f5f47b6fc40ae978b04f0073aacb4.16":{"guid":"040f5f47b6fc40ae978b04f0073aacb4.16","lat":52.179867,"lng":1.003006,"name":"Charcoal & Churches Trail Marker 2"},"459b5581a587418a9d5f915f7407e6a1.16":{"guid":"459b5581a587418a9d5f915f7407e6a1.16","lat":52.178678,"lng":1.002872,"name":"Charcoal & Churches Trail Marker 3"},"58eeca9748f248ae8a5e8c9a83c7b5e7.16":{"guid":"58eeca9748f248ae8a5e8c9a83c7b5e7.16","lat":51.733227,"lng":-0.456943,"name":"Nash Mills Marker (North)"},"ae957066b92c43b4b962a7fc91a65716.11":{"guid":"ae957066b92c43b4b962a7fc91a65716.11","lat":51.734196,"lng":-0.461604,"name":"Canal Mile Marker"},"30b5d654f8a24480b4aad99409272396.16":{"guid":"30b5d654f8a24480b4aad99409272396.16","lat":51.733138,"lng":-0.460121,"name":"Apsley Marina Drawbridge"},"f06a13fef1c14ea8a54aea4c0abbad31.16":{"guid":"f06a13fef1c14ea8a54aea4c0abbad31.16","lat":51.73308,"lng":-0.462346,"name":"The Paper Mill"},"586dae549b2a47a08564a9545a8e59ae.11":{"guid":"586dae549b2a47a08564a9545a8e59ae.11","lat":51.733772,"lng":-0.462421,"name":"Flour Mill Stone"},"8ecadb4f19b44b4bbb5e45a1a96e2308.11":{"guid":"8ecadb4f19b44b4bbb5e45a1a96e2308.11","lat":51.733326,"lng":-0.462774,"name":"Apsley Old Paper Mill"},"99705687b6af475fb66b0b147162d4ba.11":{"guid":"99705687b6af475fb66b0b147162d4ba.11","lat":51.733583,"lng":-0.461413,"name":"Navigation Bridge"},"416e56178e693a708e7df11fe9deb8ce.16":{"guid":"416e56178e693a708e7df11fe9deb8ce.16","lat":51.733472,"lng":-0.45332,"name":"Wildlife & Pollinators Habitat board"},"bd909817d137452699529fa5b02563b4.16":{"guid":"bd909817d137452699529fa5b02563b4.16","lat":51.670848,"lng":-0.427718,"name":"Lock 76, Cassiobury Park Lock"},"d755c6d560da44689b56a9947a7323e5.16":{"guid":"d755c6d560da44689b56a9947a7323e5.16","lat":51.729621,"lng":-0.450787,"name":"Memorial Plaque"},"53f80d0149254975bfcfaeace6aa9350.16":{"guid":"53f80d0149254975bfcfaeace6aa9350.16","lat":51.728728,"lng":-0.451396,"name":"Nash Mills Wharf play area"},"f6c17acb5bab4205857f5e7f3499cd6d.16":{"guid":"f6c17acb5bab4205857f5e7f3499cd6d.16","lat":51.729648,"lng":-0.457056,"name":"Shendish Manor"},"9671b0edb6e94e2b86474d43974409ac.16":{"guid":"9671b0edb6e94e2b86474d43974409ac.16","lat":51.731004,"lng":-0.455462,"name":"Swan Mead Play Area"},"3368f7f759b844779fe88bc93c711af2.16":{"guid":"3368f7f759b844779fe88bc93c711af2.16","lat":51.731247,"lng":-0.452786,"name":"The Three Tuns"},"58394994bfe64b598274756cb9ec5f77.16":{"guid":"58394994bfe64b598274756cb9ec5f77.16","lat":51.729764,"lng":-0.452842,"name":"Waterfall steps"},"603f7a2495334c24a84cd2eaa9d538aa.16":{"guid":"603f7a2495334c24a84cd2eaa9d538aa.16","lat":51.730633,"lng":-0.454791,"name":"Willows Residents Association"},"b8ce254794384766a70a09db4dbd136c.16":{"guid":"b8ce254794384766a70a09db4dbd136c.16","lat":51.73586,"lng":-0.456139,"name":"Fairway King George V"},"ebfd43208e75451db79a4040ccb090b3.16":{"guid":"ebfd43208e75451db79a4040ccb090b3.16","lat":51.732353,"lng":-0.458767,"name":"Apsley Park"},"0eea18aa4cfb40458fb4c97d9b27ef1b.16":{"guid":"0eea18aa4cfb40458fb4c97d9b27ef1b.16","lat":51.732337,"lng":-0.459338,"name":"Bridge 154- Grand Union Canal"},"15b0e9b6018043c2b738c7cfc2c0aa52.11":{"guid":"15b0e9b6018043c2b738c7cfc2c0aa52.11","lat":51.736098,"lng":-0.465059,"name":"Sainsbury's Plaque"},"bce7d00d6aad4f14bc452a537d744b78.11":{"guid":"bce7d00d6aad4f14bc452a537d744b78.11","lat":51.735962,"lng":-0.463998,"name":"The Canal Footbridge"},"c52d4d3f029a4f6a8706dcdf345ec977.16":{"guid":"c52d4d3f029a4f6a8706dcdf345ec977.16","lat":51.738103,"lng":-0.465616,"name":"Coffee Factory Footbridge"},"dc0ab3a401323ba7810bb0eee2392d3b.16":{"guid":"dc0ab3a401323ba7810bb0eee2392d3b.16","lat":51.741017,"lng":-0.469575,"name":"Exercise Equipment"},"b5c3bf698eeb42d1875e095a8bfa28ac.16":{"guid":"b5c3bf698eeb42d1875e095a8bfa28ac.16","lat":51.739776,"lng":-0.468818,"name":"Frogmore Rocks"},"2d7ffe25b5003b35beecbe46f7ea61af.16":{"guid":"2d7ffe25b5003b35beecbe46f7ea61af.16","lat":51.740286,"lng":-0.46857,"name":"Miniature Climbing Frame"},"d6a74d3b86104c648f6a7adf5ae5e05a.16":{"guid":"d6a74d3b86104c648f6a7adf5ae5e05a.16","lat":51.742349,"lng":-0.473625,"name":"Sunny side up"},"8ee154bace61426a830e0e3a5f937865.16":{"guid":"8ee154bace61426a830e0e3a5f937865.16","lat":51.664217,"lng":-0.427095,"name":"Welcome to Cassiobury Park"},"53b1e9e7a4f547c78de87c021be30adf.16":{"guid":"53b1e9e7a4f547c78de87c021be30adf.16","lat":51.663643,"lng":-0.425448,"name":"Cassiobury Wetland Haven"},"17949bada41c4d3d838a1064bfe156c4.16":{"guid":"17949bada41c4d3d838a1064bfe156c4.16","lat":51.690472,"lng":-0.434954,"name":"Grand Union Canal Lock 72"},"d362e8b7024e496e89b318911725f6bc.16":{"guid":"d362e8b7024e496e89b318911725f6bc.16","lat":51.713447,"lng":-0.44385,"name":"Kings Langley Map at bridge 158"},"ca8aaca35ee64d86a750c038d9cd3df1.16":{"guid":"ca8aaca35ee64d86a750c038d9cd3df1.16","lat":51.713994,"lng":-0.444477,"name":"Kings Langley Lock, Lock 69A"},"6542b126f9b348dbb519787ba3dd3282.16":{"guid":"6542b126f9b348dbb519787ba3dd3282.16","lat":51.726925,"lng":-0.452848,"name":"Hemel Hempstead Canoe Club"},"90e696ecb0e843848ac2c7a5f2a8aaea.16":{"guid":"90e696ecb0e843848ac2c7a5f2a8aaea.16","lat":51.726394,"lng":-0.452358,"name":"Berkhamsted motorcyle club - Nash Mills motocross site"},"f41933b097773dceacfbdc5442544103.16":{"guid":"f41933b097773dceacfbdc5442544103.16","lat":51.727547,"lng":-0.453116,"name":"Wooden house playground"},"ceb3ba09ab8245edb5d0fafe7d65d995.16":{"guid":"ceb3ba09ab8245edb5d0fafe7d65d995.16","lat":51.731803,"lng":-0.447348,"name":"Long Deans Nature reserve orchids"},"9aec0186e1b54b2d9a3c182fdbe34c78.16":{"guid":"9aec0186e1b54b2d9a3c182fdbe34c78.16","lat":51.731704,"lng":-0.44712,"name":"A Valley of Wildflower Grassland"},"158c71d9cfec4db9892c47e5b591371e.16":{"guid":"158c71d9cfec4db9892c47e5b591371e.16","lat":51.739992,"lng":-0.451018,"name":"Coronation Fields Tennis Courts"},"0df16ee02af33db1b873c6ebce651344.16":{"guid":"0df16ee02af33db1b873c6ebce651344.16","lat":51.733665,"lng":-0.453832,"name":"Council noticeboard"},"1839e8ac85cb42d7a4ba059025630ae0.16":{"guid":"1839e8ac85cb42d7a4ba059025630ae0.16","lat":51.740344,"lng":-0.458829,"name":"Athelstan Road King George Pillar box"},"89c4767f60c34297ac582c846cf41a36.16":{"guid":"89c4767f60c34297ac582c846cf41a36.16","lat":51.736769,"lng":-0.467938,"name":"The Oddfellows Arms"},"aff93709d21b3805839ceab03f2fece7.16":{"guid":"aff93709d21b3805839ceab03f2fece7.16","lat":51.741235,"lng":-0.470288,"name":"Monkey Bars"},"f9daa3e794f73899962f43f517e5cd0c.16":{"guid":"f9daa3e794f73899962f43f517e5cd0c.16","lat":51.74109,"lng":-0.46826,"name":"Dacorum Borough Council Noticeboard"},"57a5644349bd436fb229acc7df5b0ece.16":{"guid":"57a5644349bd436fb229acc7df5b0ece.16","lat":51.74297,"lng":-0.475862,"name":"Lock 64, Grand Union Canal"},"214860c67d354fe9ac3074d48e3297c6.16":{"guid":"214860c67d354fe9ac3074d48e3297c6.16","lat":51.743096,"lng":-0.476991,"name":"Braunston 65 Mile Marker"}},"notpogo":{"9fa950579a5b4060822fdf820ec999a2.16":{"guid":"9fa950579a5b4060822fdf820ec999a2.16","lat":51.733293,"lng":-0.462485,"name":"WW I memorial cross"},"cb1fe4ac592b49048d7844f18e4e6ed2.11":{"guid":"cb1fe4ac592b49048d7844f18e4e6ed2.11","lat":51.733591,"lng":-0.462442,"name":"John Dickinson Plaque"},"4b0c50b615f44598a065eee2e45eb1cb.16":{"guid":"4b0c50b615f44598a065eee2e45eb1cb.16","lat":51.733533,"lng":-0.461742,"name":"The Paper Mill Pub"},"f66681a95a5e45fc85a65bda6ef4eaea.16":{"guid":"f66681a95a5e45fc85a65bda6ef4eaea.16","lat":51.733297,"lng":-0.458766,"name":"Apsley Basin Gate"},"1c324668783d4e989bbc0c3a6c3081da.16":{"guid":"1c324668783d4e989bbc0c3a6c3081da.16","lat":51.671916,"lng":-0.426543,"name":"Lock 75, Grand Union Canal"},"cd84c1f5aa0e408795b3b691ed3ca791.11":{"guid":"cd84c1f5aa0e408795b3b691ed3ca791.11","lat":51.736317,"lng":-0.463722,"name":"Apsley Lock Flight"}},"ignoredCellsExtraGyms":{},"ignoredCellsMissingGyms":{}}
+{
+    "gyms": {
+        "3b752159d82549b7b7f1a7dd5308aaf9.16": {
+            "guid": "3b752159d82549b7b7f1a7dd5308aaf9.16",
+            "lat": 52.180017,
+            "lng": 1.005207,
+            "name": "Charcoal & Churches Trail Marker 1"
+        },
+        "45c61dab5a744653bccb3dc2b36ff786.16": {
+            "guid": "45c61dab5a744653bccb3dc2b36ff786.16",
+            "lat": 51.732723,
+            "lng": -0.463169,
+            "name": "Apsley Rail Station"
+        },
+        "7d5be71af2b34e419b57786cc9016927.11": {
+            "guid": "7d5be71af2b34e419b57786cc9016927.11",
+            "lat": 51.733722,
+            "lng": -0.458795,
+            "name": "Entrance to Apsley Lock Marina"
+        },
+        "e7cef98f976c4bdb9a9c6db8ca1fca32.16": {
+            "guid": "e7cef98f976c4bdb9a9c6db8ca1fca32.16",
+            "lat": 51.733184,
+            "lng": -0.45405,
+            "name": "The Denes Shopping Centre"
+        },
+        "87df1d7e397a47609ad23b9b41dc776f.16": {
+            "guid": "87df1d7e397a47609ad23b9b41dc776f.16",
+            "lat": 51.671731,
+            "lng": -0.426927,
+            "name": "Braunston 71 Miles"
+        },
+        "f5ce6226299c48e58476ad4badace37a.16": {
+            "guid": "f5ce6226299c48e58476ad4badace37a.16",
+            "lat": 51.732522,
+            "lng": -0.455812,
+            "name": "King George V Pillar Box"
+        },
+        "4c7a9f17c528402b8d3bc1c2f76a13d4.16": {
+            "guid": "4c7a9f17c528402b8d3bc1c2f76a13d4.16",
+            "lat": 51.729862,
+            "lng": -0.453858,
+            "name": "Nash Mills lock 68 - Top lock (c.1797)"
+        },
+        "76f196971db34c36aeb5264ef0dfae05.11": {
+            "guid": "76f196971db34c36aeb5264ef0dfae05.11",
+            "lat": 51.734599,
+            "lng": -0.466057,
+            "name": "St. Mary's Apsley End"
+        },
+        "289f951f9181444d8ce9f44b99538add.16": {
+            "guid": "289f951f9181444d8ce9f44b99538add.16",
+            "lat": 51.663762,
+            "lng": -0.426172,
+            "name": "Cassiobury Park Local Nature Reserve"
+        },
+        "8c0706b3fe014b4196b348707e21d41f.16": {
+            "guid": "8c0706b3fe014b4196b348707e21d41f.16",
+            "lat": 51.68864,
+            "lng": -0.433745,
+            "name": "Grand Union Canal Lock 73 (lower lock)"
+        },
+        "df041562665945a6955614be576e50bf.16": {
+            "guid": "df041562665945a6955614be576e50bf.16",
+            "lat": 51.727724,
+            "lng": -0.452563,
+            "name": "Nash Mills Lock 69 - bottom lock"
+        },
+        "c125b5c015694c5b845012fcd9e47448.16": {
+            "guid": "c125b5c015694c5b845012fcd9e47448.16",
+            "lat": 51.731584,
+            "lng": -0.447677,
+            "name": "Welcome to Langley Tennis Club"
+        },
+        "8423a915f20a4ad08ea411908f68f2e9.16": {
+            "guid": "8423a915f20a4ad08ea411908f68f2e9.16",
+            "lat": 51.736352,
+            "lng": -0.449545,
+            "name": "Barnacres Play Area"
+        },
+        "309f879cd1594293b4cd68e03f9654f9.16": {
+            "guid": "309f879cd1594293b4cd68e03f9654f9.16",
+            "lat": 51.736279,
+            "lng": -0.461063,
+            "name": "Dell Meadow King George V Pillar Box"
+        },
+        "b4ce373f062f477f8f8020cec8d25952.16": {
+            "guid": "b4ce373f062f477f8f8020cec8d25952.16",
+            "lat": 51.736905,
+            "lng": -0.46748,
+            "name": "Kent Brushes"
+        },
+        "358f6c597b97452fae6b212adb961c15.11": {
+            "guid": "358f6c597b97452fae6b212adb961c15.11",
+            "lat": 51.740349,
+            "lng": -0.466484,
+            "name": "New Life Pentecostal Church"
+        }
+    },
+    "pokestops": {
+        "040f5f47b6fc40ae978b04f0073aacb4.16": {
+            "guid": "040f5f47b6fc40ae978b04f0073aacb4.16",
+            "lat": 52.179867,
+            "lng": 1.003006,
+            "name": "Charcoal & Churches Trail Marker 2"
+        },
+        "459b5581a587418a9d5f915f7407e6a1.16": {
+            "guid": "459b5581a587418a9d5f915f7407e6a1.16",
+            "lat": 52.178678,
+            "lng": 1.002872,
+            "name": "Charcoal & Churches Trail Marker 3"
+        },
+        "58eeca9748f248ae8a5e8c9a83c7b5e7.16": {
+            "guid": "58eeca9748f248ae8a5e8c9a83c7b5e7.16",
+            "lat": 51.733227,
+            "lng": -0.456943,
+            "name": "Nash Mills Marker (North)"
+        },
+        "ae957066b92c43b4b962a7fc91a65716.11": {
+            "guid": "ae957066b92c43b4b962a7fc91a65716.11",
+            "lat": 51.734196,
+            "lng": -0.461604,
+            "name": "Canal Mile Marker"
+        },
+        "30b5d654f8a24480b4aad99409272396.16": {
+            "guid": "30b5d654f8a24480b4aad99409272396.16",
+            "lat": 51.733138,
+            "lng": -0.460121,
+            "name": "Apsley Marina Drawbridge"
+        },
+        "f06a13fef1c14ea8a54aea4c0abbad31.16": {
+            "guid": "f06a13fef1c14ea8a54aea4c0abbad31.16",
+            "lat": 51.73308,
+            "lng": -0.462346,
+            "name": "The Paper Mill"
+        },
+        "586dae549b2a47a08564a9545a8e59ae.11": {
+            "guid": "586dae549b2a47a08564a9545a8e59ae.11",
+            "lat": 51.733772,
+            "lng": -0.462421,
+            "name": "Flour Mill Stone"
+        },
+        "8ecadb4f19b44b4bbb5e45a1a96e2308.11": {
+            "guid": "8ecadb4f19b44b4bbb5e45a1a96e2308.11",
+            "lat": 51.733326,
+            "lng": -0.462774,
+            "name": "Apsley Old Paper Mill"
+        },
+        "99705687b6af475fb66b0b147162d4ba.11": {
+            "guid": "99705687b6af475fb66b0b147162d4ba.11",
+            "lat": 51.733583,
+            "lng": -0.461413,
+            "name": "Navigation Bridge"
+        },
+        "416e56178e693a708e7df11fe9deb8ce.16": {
+            "guid": "416e56178e693a708e7df11fe9deb8ce.16",
+            "lat": 51.733472,
+            "lng": -0.45332,
+            "name": "Wildlife & Pollinators Habitat board"
+        },
+        "bd909817d137452699529fa5b02563b4.16": {
+            "guid": "bd909817d137452699529fa5b02563b4.16",
+            "lat": 51.670848,
+            "lng": -0.427718,
+            "name": "Lock 76, Cassiobury Park Lock"
+        },
+        "d755c6d560da44689b56a9947a7323e5.16": {
+            "guid": "d755c6d560da44689b56a9947a7323e5.16",
+            "lat": 51.729621,
+            "lng": -0.450787,
+            "name": "Memorial Plaque"
+        },
+        "53f80d0149254975bfcfaeace6aa9350.16": {
+            "guid": "53f80d0149254975bfcfaeace6aa9350.16",
+            "lat": 51.728728,
+            "lng": -0.451396,
+            "name": "Nash Mills Wharf play area"
+        },
+        "f6c17acb5bab4205857f5e7f3499cd6d.16": {
+            "guid": "f6c17acb5bab4205857f5e7f3499cd6d.16",
+            "lat": 51.729648,
+            "lng": -0.457056,
+            "name": "Shendish Manor"
+        },
+        "9671b0edb6e94e2b86474d43974409ac.16": {
+            "guid": "9671b0edb6e94e2b86474d43974409ac.16",
+            "lat": 51.731004,
+            "lng": -0.455462,
+            "name": "Swan Mead Play Area"
+        },
+        "3368f7f759b844779fe88bc93c711af2.16": {
+            "guid": "3368f7f759b844779fe88bc93c711af2.16",
+            "lat": 51.731247,
+            "lng": -0.452786,
+            "name": "The Three Tuns"
+        },
+        "58394994bfe64b598274756cb9ec5f77.16": {
+            "guid": "58394994bfe64b598274756cb9ec5f77.16",
+            "lat": 51.729764,
+            "lng": -0.452842,
+            "name": "Waterfall steps"
+        },
+        "603f7a2495334c24a84cd2eaa9d538aa.16": {
+            "guid": "603f7a2495334c24a84cd2eaa9d538aa.16",
+            "lat": 51.730633,
+            "lng": -0.454791,
+            "name": "Willows Residents Association"
+        },
+        "b8ce254794384766a70a09db4dbd136c.16": {
+            "guid": "b8ce254794384766a70a09db4dbd136c.16",
+            "lat": 51.73586,
+            "lng": -0.456139,
+            "name": "Fairway King George V"
+        },
+        "ebfd43208e75451db79a4040ccb090b3.16": {
+            "guid": "ebfd43208e75451db79a4040ccb090b3.16",
+            "lat": 51.732353,
+            "lng": -0.458767,
+            "name": "Apsley Park"
+        },
+        "0eea18aa4cfb40458fb4c97d9b27ef1b.16": {
+            "guid": "0eea18aa4cfb40458fb4c97d9b27ef1b.16",
+            "lat": 51.732337,
+            "lng": -0.459338,
+            "name": "Bridge 154- Grand Union Canal"
+        },
+        "15b0e9b6018043c2b738c7cfc2c0aa52.11": {
+            "guid": "15b0e9b6018043c2b738c7cfc2c0aa52.11",
+            "lat": 51.736098,
+            "lng": -0.465059,
+            "name": "Sainsbury's Plaque"
+        },
+        "bce7d00d6aad4f14bc452a537d744b78.11": {
+            "guid": "bce7d00d6aad4f14bc452a537d744b78.11",
+            "lat": 51.735962,
+            "lng": -0.463998,
+            "name": "The Canal Footbridge"
+        },
+        "c52d4d3f029a4f6a8706dcdf345ec977.16": {
+            "guid": "c52d4d3f029a4f6a8706dcdf345ec977.16",
+            "lat": 51.738103,
+            "lng": -0.465616,
+            "name": "Coffee Factory Footbridge"
+        },
+        "dc0ab3a401323ba7810bb0eee2392d3b.16": {
+            "guid": "dc0ab3a401323ba7810bb0eee2392d3b.16",
+            "lat": 51.741017,
+            "lng": -0.469575,
+            "name": "Exercise Equipment"
+        },
+        "b5c3bf698eeb42d1875e095a8bfa28ac.16": {
+            "guid": "b5c3bf698eeb42d1875e095a8bfa28ac.16",
+            "lat": 51.739776,
+            "lng": -0.468818,
+            "name": "Frogmore Rocks"
+        },
+        "2d7ffe25b5003b35beecbe46f7ea61af.16": {
+            "guid": "2d7ffe25b5003b35beecbe46f7ea61af.16",
+            "lat": 51.740286,
+            "lng": -0.46857,
+            "name": "Miniature Climbing Frame"
+        },
+        "d6a74d3b86104c648f6a7adf5ae5e05a.16": {
+            "guid": "d6a74d3b86104c648f6a7adf5ae5e05a.16",
+            "lat": 51.742349,
+            "lng": -0.473625,
+            "name": "Sunny side up"
+        },
+        "8ee154bace61426a830e0e3a5f937865.16": {
+            "guid": "8ee154bace61426a830e0e3a5f937865.16",
+            "lat": 51.664217,
+            "lng": -0.427095,
+            "name": "Welcome to Cassiobury Park"
+        },
+        "53b1e9e7a4f547c78de87c021be30adf.16": {
+            "guid": "53b1e9e7a4f547c78de87c021be30adf.16",
+            "lat": 51.663643,
+            "lng": -0.425448,
+            "name": "Cassiobury Wetland Haven"
+        },
+        "17949bada41c4d3d838a1064bfe156c4.16": {
+            "guid": "17949bada41c4d3d838a1064bfe156c4.16",
+            "lat": 51.690472,
+            "lng": -0.434954,
+            "name": "Grand Union Canal Lock 72"
+        },
+        "d362e8b7024e496e89b318911725f6bc.16": {
+            "guid": "d362e8b7024e496e89b318911725f6bc.16",
+            "lat": 51.713447,
+            "lng": -0.44385,
+            "name": "Kings Langley Map at bridge 158"
+        },
+        "ca8aaca35ee64d86a750c038d9cd3df1.16": {
+            "guid": "ca8aaca35ee64d86a750c038d9cd3df1.16",
+            "lat": 51.713994,
+            "lng": -0.444477,
+            "name": "Kings Langley Lock, Lock 69A"
+        },
+        "6542b126f9b348dbb519787ba3dd3282.16": {
+            "guid": "6542b126f9b348dbb519787ba3dd3282.16",
+            "lat": 51.726925,
+            "lng": -0.452848,
+            "name": "Hemel Hempstead Canoe Club"
+        },
+        "90e696ecb0e843848ac2c7a5f2a8aaea.16": {
+            "guid": "90e696ecb0e843848ac2c7a5f2a8aaea.16",
+            "lat": 51.726394,
+            "lng": -0.452358,
+            "name": "Berkhamsted motorcyle club - Nash Mills motocross site"
+        },
+        "f41933b097773dceacfbdc5442544103.16": {
+            "guid": "f41933b097773dceacfbdc5442544103.16",
+            "lat": 51.727547,
+            "lng": -0.453116,
+            "name": "Wooden house playground"
+        },
+        "ceb3ba09ab8245edb5d0fafe7d65d995.16": {
+            "guid": "ceb3ba09ab8245edb5d0fafe7d65d995.16",
+            "lat": 51.731803,
+            "lng": -0.447348,
+            "name": "Long Deans Nature reserve orchids"
+        },
+        "9aec0186e1b54b2d9a3c182fdbe34c78.16": {
+            "guid": "9aec0186e1b54b2d9a3c182fdbe34c78.16",
+            "lat": 51.731704,
+            "lng": -0.44712,
+            "name": "A Valley of Wildflower Grassland"
+        },
+        "158c71d9cfec4db9892c47e5b591371e.16": {
+            "guid": "158c71d9cfec4db9892c47e5b591371e.16",
+            "lat": 51.739992,
+            "lng": -0.451018,
+            "name": "Coronation Fields Tennis Courts"
+        },
+        "0df16ee02af33db1b873c6ebce651344.16": {
+            "guid": "0df16ee02af33db1b873c6ebce651344.16",
+            "lat": 51.733665,
+            "lng": -0.453832,
+            "name": "Council noticeboard"
+        },
+        "1839e8ac85cb42d7a4ba059025630ae0.16": {
+            "guid": "1839e8ac85cb42d7a4ba059025630ae0.16",
+            "lat": 51.740344,
+            "lng": -0.458829,
+            "name": "Athelstan Road King George Pillar box"
+        },
+        "89c4767f60c34297ac582c846cf41a36.16": {
+            "guid": "89c4767f60c34297ac582c846cf41a36.16",
+            "lat": 51.736769,
+            "lng": -0.467938,
+            "name": "The Oddfellows Arms"
+        },
+        "aff93709d21b3805839ceab03f2fece7.16": {
+            "guid": "aff93709d21b3805839ceab03f2fece7.16",
+            "lat": 51.741235,
+            "lng": -0.470288,
+            "name": "Monkey Bars"
+        },
+        "f9daa3e794f73899962f43f517e5cd0c.16": {
+            "guid": "f9daa3e794f73899962f43f517e5cd0c.16",
+            "lat": 51.74109,
+            "lng": -0.46826,
+            "name": "Dacorum Borough Council Noticeboard"
+        },
+        "57a5644349bd436fb229acc7df5b0ece.16": {
+            "guid": "57a5644349bd436fb229acc7df5b0ece.16",
+            "lat": 51.74297,
+            "lng": -0.475862,
+            "name": "Lock 64, Grand Union Canal"
+        },
+        "214860c67d354fe9ac3074d48e3297c6.16": {
+            "guid": "214860c67d354fe9ac3074d48e3297c6.16",
+            "lat": 51.743096,
+            "lng": -0.476991,
+            "name": "Braunston 65 Mile Marker"
+        }
+    },
+    "notpogo": {
+        "9fa950579a5b4060822fdf820ec999a2.16": {
+            "guid": "9fa950579a5b4060822fdf820ec999a2.16",
+            "lat": 51.733293,
+            "lng": -0.462485,
+            "name": "WW I memorial cross"
+        },
+        "cb1fe4ac592b49048d7844f18e4e6ed2.11": {
+            "guid": "cb1fe4ac592b49048d7844f18e4e6ed2.11",
+            "lat": 51.733591,
+            "lng": -0.462442,
+            "name": "John Dickinson Plaque"
+        },
+        "4b0c50b615f44598a065eee2e45eb1cb.16": {
+            "guid": "4b0c50b615f44598a065eee2e45eb1cb.16",
+            "lat": 51.733533,
+            "lng": -0.461742,
+            "name": "The Paper Mill Pub"
+        },
+        "f66681a95a5e45fc85a65bda6ef4eaea.16": {
+            "guid": "f66681a95a5e45fc85a65bda6ef4eaea.16",
+            "lat": 51.733297,
+            "lng": -0.458766,
+            "name": "Apsley Basin Gate"
+        },
+        "1c324668783d4e989bbc0c3a6c3081da.16": {
+            "guid": "1c324668783d4e989bbc0c3a6c3081da.16",
+            "lat": 51.671916,
+            "lng": -0.426543,
+            "name": "Lock 75, Grand Union Canal"
+        },
+        "cd84c1f5aa0e408795b3b691ed3ca791.11": {
+            "guid": "cd84c1f5aa0e408795b3b691ed3ca791.11",
+            "lat": 51.736317,
+            "lng": -0.463722,
+            "name": "Apsley Lock Flight"
+        }
+    },
+    "ignoredCellsExtraGyms": {},
+    "ignoredCellsMissingGyms": {}
+}
