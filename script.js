@@ -1,47 +1,55 @@
 (() => {
 	const fetchJSON = (() => {
-		// prettier-ignore
 		return Promise.all([
-      fetch("./IITC-pogo_new.json"),
-      fetch("./IITC-pogo_tablet.json"),
-      fetch("./IITC-pogo_laptop.json"),
-      fetch("./IITC-pogo_desktop.json"),
-      fetch("./IITC-pogo_old.json")
-    ])
-    .then(jsonObjs => {
-      return Promise.all(jsonObjs.map(jsonObj => jsonObj.json()));
-    })
+			// prettier-ignore
+			fetch("./IITC-pogo_new.json"),
+			fetch("./IITC-pogo_tablet.json"),
+			fetch("./IITC-pogo_laptop.json"),
+			fetch("./IITC-pogo_desktop.json"),
+			fetch("./IITC-pogo_old.json")
+			// fetch("./test1.json"),
+			// fetch("./test2.json")
+		])
+		.then(jsonObjs => {
+			return Promise.all(jsonObjs.map(jsonObj => jsonObj.json()));
+		})
 		.then((arrJsonObjs) => {
-			const used = [];
-			const nObj = {};
+		const nObj = {};
 
-			arrJsonObjs.forEach((oObj) => {
-				const oCats = Object.keys(oObj);
+		arrJsonObjs.forEach((oObj) => {
+			const oCats = Object.keys(oObj);
 
-				oCats.forEach((oCat) => {
-					const oItemIds = Object.keys(oObj[oCat]);
+			oCats.forEach((oCat) => {
+				const oItemIds = Object.keys(oObj[oCat]);
 
-					oItemIds.forEach((oItemId) => {
-						const isDone = used.includes(oItemId);
+				oItemIds.forEach((oItemId) => {
+					const isClash = (() => {
+						const nCats = Object.keys(nObj);
 
-						if (!!isDone) return;
+						return nCats.some((nCat) => {
+							if (nObj[nCat][oItemId] && nCat !== oCat) {
+								delete nObj[nCat][oItemId];
+								return true;
+							}
+						});
+					})();
 
-						used.push(oItemId);
+					if (!!isClash) return;
 
-						if (!nObj[oCat]) nObj[oCat] = {};
+					else if (!nObj[oCat]) nObj[oCat] = {};
 
-						nObj[oCat][oItemId] = oObj[oCat][oItemId];
-					});
+					nObj[oCat][oItemId] = oObj[oCat][oItemId];
 				});
 			});
+		});
 
-			const elLink = document.createElement("a");
-			elLink.href = window.URL.createObjectURL(new Blob([JSON.stringify(nObj)], { type: "text/plain" }));
-			elLink.download = "IITC-pogo__output.json";
-			elLink.click();
+		const elLink = document.createElement("a");
+		elLink.href = window.URL.createObjectURL(new Blob([JSON.stringify(nObj)], { type: "text/plain" }));
+		elLink.download = "IITC-pogo__output.json";
+		elLink.click();
 
-			console.log(nObj);
-		})
-		.catch(console.error);
+		console.log(nObj);
+	})
+	.catch(console.error);
 	})();
 })();

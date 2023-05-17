@@ -1,0 +1,14 @@
+{
+    "gyms": {
+        "cb1fe4ac592b49048d7844f18e4e6ed2.11": {
+            "guid": "cb1fe4ac592b49048d7844f18e4e6ed2.11",
+            "lat": 51.733591,
+            "lng": -0.462442,
+            "name": "John Dickinson Plaque"
+        }
+    },
+    "pokestops": {},
+    "notpogo": {},
+    "ignoredCellsExtraGyms": {},
+    "ignoredCellsMissingGyms": {}
+}

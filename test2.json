@@ -1,0 +1,20 @@
+{
+    "gyms": {},
+    "pokestops": {},
+    "notpogo": {
+        "cb1fe4ac592b49048d7844f18e4e6ed2.11": {
+            "guid": "cb1fe4ac592b49048d7844f18e4e6ed2.11",
+            "lat": 51.733591,
+            "lng": -0.462442,
+            "name": "John Dickinson Plaque"
+        },
+        "f5ce6226299c48e58476ad4badace37a.16": {
+            "guid": "f5ce6226299c48e58476ad4badace37a.16",
+            "lat": 51.732522,
+            "lng": -0.455812,
+            "name": "King George V Pillar Box"
+        }
+    },
+    "ignoredCellsExtraGyms": {},
+    "ignoredCellsMissingGyms": {}
+}
